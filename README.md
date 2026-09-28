@@ -60,7 +60,7 @@ flowchart LR
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Blacknix809/artisan-marketplace-ai.git
+git clone https://github.com/kartik-agrawal-01/artisan-marketplace-ai.git
 cd artisan-marketplace-ai
 ```
 
