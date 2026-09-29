@@ -1,0 +1,12 @@
+# Python 3.12. Pinned versions the tests and the fake-cloud mode were run with (September 2026).
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+python-dotenv==1.2.3
+pydantic==2.13.5
+google-auth==2.59.0
+requests==2.34.2
+google-cloud-firestore==2.32.0
+google-cloud-storage==3.15.0
+google-cloud-speech==2.40.0
+google-cloud-aiplatform==2.2.0
