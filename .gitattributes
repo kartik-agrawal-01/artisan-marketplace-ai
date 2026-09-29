@@ -1,0 +1,8 @@
+# Flutter's generated platform scaffolding: excluded from GitHub's language statistics so the language bar
+# reflects the hand-written code (backend/ in Python, app/lib/ in Dart).
+app/android/** linguist-generated
+app/ios/** linguist-generated
+app/linux/** linguist-generated
+app/macos/** linguist-generated
+app/windows/** linguist-generated
+app/web/** linguist-generated
